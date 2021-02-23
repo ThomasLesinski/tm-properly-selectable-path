@@ -1,1 +1,1 @@
-# Tampermonkey 'Properly selectable path' Script
+# Tampermonkey 'Properly Selectable Path' Script
