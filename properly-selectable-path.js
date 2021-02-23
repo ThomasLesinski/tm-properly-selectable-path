@@ -2,7 +2,7 @@
 // @name         GH Shopware - Properly selectable path
 // @namespace    https://www.ottscho-it-service.de/
 // @version      1
-// @description  Add div to allow proper selection of text
+// @description  Add div to allow proper selection of path text
 // @author       ThomasLesinski
 // @include      https://github.com/*/compare/*
 // @grant        none
