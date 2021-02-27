@@ -21,3 +21,4 @@
 
     pathLink.parentNode.appendChild(span);
 })();
+ 
